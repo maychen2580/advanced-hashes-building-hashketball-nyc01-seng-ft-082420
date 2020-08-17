@@ -1,4 +1,5 @@
 # Write your code here!
+requir 'pry'
 
 def game_hash
   {
@@ -126,4 +127,5 @@ players:[
         ]
     }
   }
+  binding.pry
 end
