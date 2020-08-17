@@ -92,36 +92,36 @@ players:[
     },
     {
     player_Name:"Desagna Diop",
-    number: ,
-    shoe: ,
-    points: ,
-    rebounds: ,
-    assists: ,
-    steals: ,
-    blocks: ,
-    slam_dunks: 
+    number: 2,
+    shoe: 14,
+    points: 24,
+    rebounds: 12,
+    assists: 12,
+    steals: 4,
+    blocks: 5,
+    slam_dunks: 5
     },
     {
-    player_Name:"Alan Anderson",
-    number: ,
-    shoe: ,
-    points: ,
-    rebounds: ,
-    assists: ,
-    steals: ,
-    blocks: ,
-    slam_dunks: 
+    player_Name:"Ben Gordon",
+    number: 8,
+    shoe: 15,
+    points: 33,
+    rebounds: 3,
+    assists: 2,
+    steals: 1,
+    blocks: 1,
+    slam_dunks: 0
     },
     {
-    player_Name:"Alan Anderson",
-    number: ,
-    shoe: ,
-    points: ,
-    rebounds: ,
-    assists: ,
-    steals: ,
-    blocks: ,
-    slam_dunks: 
+    player_Name:"Kemba Walker",
+    number: 33,
+    shoe: 15,
+    points: 6,
+    rebounds: 12,
+    assists: 12,
+    steals: 7,
+    blocks: 5,
+    slam_dunks: 12
     }
         ]
     }
