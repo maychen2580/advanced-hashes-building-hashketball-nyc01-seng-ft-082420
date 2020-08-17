@@ -52,7 +52,7 @@ players:[
     slam_dunks: 5
     },
     {
-    player_Name:"Jason Terry",
+    player_name:"Jason Terry",
     number: 31,
     shoe: 15,
     points: 19,
@@ -70,7 +70,7 @@ players:[
       colors: ["Turquoise", "Purple"],
       players:[
         {
-    player_Name:"Jeff Adrien",
+    player_name:"Jeff Adrien",
     number: 4,
     shoe: 18,
     points: 10,
@@ -81,7 +81,7 @@ players:[
     slam_dunks: 2
     },
     {
-    player_Name:"Bismack Biyombo",
+    player_name:"Bismack Biyombo",
     number: 0,
     shoe: 16,
     points: 12,
@@ -92,7 +92,7 @@ players:[
     slam_dunks: 10
     },
     {
-    player_Name:"Desagna Diop",
+    player_name:"Desagna Diop",
     number: 2,
     shoe: 14,
     points: 24,
@@ -103,7 +103,7 @@ players:[
     slam_dunks: 5
     },
     {
-    player_Name:"Ben Gordon",
+    player_name:"Ben Gordon",
     number: 8,
     shoe: 15,
     points: 33,
@@ -114,7 +114,7 @@ players:[
     slam_dunks: 0
     },
     {
-    player_Name:"Kemba Walker",
+    player_name:"Kemba Walker",
     number: 33,
     shoe: 15,
     points: 6,
@@ -127,5 +127,5 @@ players:[
         ]
     }
   }
-  binding.pry
+
 end
